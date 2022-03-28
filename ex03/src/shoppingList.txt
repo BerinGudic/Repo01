@@ -3,3 +3,4 @@ Shopping list:
 - Oranges;
 - Bananas;
 - Carrots;
+- Strawberries;
